@@ -1,4 +1,4 @@
 Hello Git Branch dev1
- It's new line
+111223 It's new line
 add new line Rebase vs.  Marge 
 1232red12333
